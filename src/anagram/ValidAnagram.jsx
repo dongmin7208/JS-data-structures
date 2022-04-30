@@ -18,3 +18,9 @@ function validAnagram(first, second){
     }
     return true;
 }
+// {
+//     a:2
+//     n:1
+// }
+// {a:0,n:0,g:0,r:0,m:0,s:1}
+validAnagram('anagram', 'nagaram')
